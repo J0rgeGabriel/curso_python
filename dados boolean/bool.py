@@ -1,0 +1,10 @@
+# Só existem duas respostas possiveis: true ou false
+print(10 == 10)
+print(10 != 10)
+print('oi' == 'ola')
+print()
+print(type(True))
+print(type(False))
+print()
+print(type(10 == 10))
+print(type((10 == 15)))

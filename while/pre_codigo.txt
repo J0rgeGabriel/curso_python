@@ -1,0 +1,26 @@
+Enquanto não maçã:
+    passo
+pega
+
+while not maça:
+    passo
+pega
+------------------------------------------------------------------------------------------------------------------------
+Enquanto não maça:
+    se chão:
+        passo
+    se buraco:
+        pula
+    se moeda:
+        pega
+pega
+
+while not maça:
+    if chao:
+        passo
+    if buraco:
+        pula
+    if moeda:
+        pega
+pega
+------------------------------------------------------------------------------------------------------------------------

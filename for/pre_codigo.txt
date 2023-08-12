@@ -1,0 +1,36 @@
+laço C no intervalo(1,10):
+    passo
+pega
+
+for C in range(1,10):
+    passo
+pega
+------------------------------------------------------------------------------------------------------------------------
+laço C no intervalo(0,3):
+    passo
+    pula
+passo
+pega
+
+for C in range(0,3):
+    passo
+    pula
+passo
+pega
+------------------------------------------------------------------------------------------------------------------------
+laço C no intervalo(0,3):
+    se tiver moeda:
+        pega
+    passo
+    pula
+passo
+pega
+
+for C in range(0,3):
+    if moeda:
+        pega
+    passo
+    pula
+passo
+pega
+------------------------------------------------------------------------------------------------------------------------
